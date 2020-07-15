@@ -18,4 +18,5 @@ I am mostly interested in iOS and macOS app/tool development but when I have the
 
 ### Get in touch
 ✉️ email: matt95.righetti@gmail.com
+
 🤖 reddit: @MattRighetti
