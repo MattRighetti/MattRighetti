@@ -4,14 +4,14 @@
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MattRighetti&include_all_commits=true&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MattRighetti&include_all_commits=true&show_icons=true&theme=onedark" />
 </a>
 </p>
 <br>
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mattrighetti" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mattrighetti&theme=onedark" />
 </a>
 </p>
 <br>
